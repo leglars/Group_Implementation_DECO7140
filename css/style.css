@@ -1,0 +1,95 @@
+@charset "utf-8";
+/* CSS Document */
+
+.wrap {
+    width: 1050px;
+    margin: 0 auto;
+}
+
+.container {
+
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.text-left {
+    text-align: left;
+}
+
+.middle {
+    margin: 0 auto;
+}
+
+.center {
+    vertical-align: middle;
+}
+
+.clear:before,
+.clear:after {
+    clear: both;
+    display: table;
+    content: '';
+}
+
+a,
+a:link,
+a:visited,
+a:hover,
+a:active {
+    text-decoration: none;
+    display: block;
+}
+
+ul,
+ul li {
+    display: inline-block;
+}
+
+/*-------------- HEADER ----------------*/
+#logo {
+    margin: 8px auto 11px 0;
+    width: 96px;
+    height: 96px;
+}
+
+#segment {
+    background-color: #fec222;
+    height: 5px;
+    width: auto;
+}
+
+ul.media {
+    display: block;
+    margin-top: 24px;
+    text-align: right;
+    height: 32px;
+}
+
+ul.media li {
+    padding-left: 20px;
+}
+
+ul.media a {
+    height: 32px;
+}
+
+ul.navigation {
+    display: block;
+    margin-top: 24px;
+    text-align: right;
+    height: 24px;
+}
+
+ul.navigation li {
+    padding-left: 60px;
+}
+
+ul.navigation a {
+    height: 24px;
+}

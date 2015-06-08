@@ -55,6 +55,36 @@
     url(../font/HelveticaNeueHv.woff);
 }
 
+@font-face {
+    font-family:"Helvetica Neue";
+    font-style: normal;
+    font-weight: 800;
+    src: local('HelveticaNeue Black'), local('HelveticaNeue-Black'),
+    url(../font/HelveticaNeueBlk.ttf),
+    url(../font/HelveticaNeueBlk.woff);
+}
+
+@font-face {
+    font-family:"Helvetica Neue";
+    font-style: oblique;
+    font-weight: 800;
+    src: local('HelveticaNeue Black Condence'), local('HelveticaNeue-Black-Condence'),
+    url(../font/HelveticaNeueBlkCn.ttf),
+    url(../font/HelveticaNeueBlkCn.woff);
+}
+
 body {
     font-size: 16px;
 }
+
+
+nav {
+    font-size: 1.5em;
+    font-weight: 800;
+    font-style: oblique;
+    color: #7d7d7d;
+}
+
+
+
+
