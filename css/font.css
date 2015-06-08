@@ -75,16 +75,44 @@
 
 body {
     font-size: 16px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 
-nav {
+h1 {
+
+}
+
+h2 {
+
+}
+
+h3 {
+
+}
+
+
+
+nav a{
     font-size: 1.5em;
     font-weight: 800;
     font-style: oblique;
     color: #7d7d7d;
 }
 
+nav a,
+nav a:link,
+nav a:visited,
+nav a:active {
+    color: #7d7d7d;
+}
 
+nav a:hover {
+    color: #fec222;
+    transition: all 0.1s ease-in-out;
+    -webkit-transition: all 0.1s ease-in-out;
+    -moz-transition: all 0.1s ease-in-out;
+    -o-transition: all 0.1s ease-in-out;
+}
 
 
