@@ -101,7 +101,38 @@ h3 {
 }
 
 
+.btn-font {
+    font-size: 1em;
+    font-weight: 700;
+    color: #3d3d3d;
+}
 
+.btn-dark {
+    color: white;
+}
+
+.btn-large {
+    font-size: 1.5em;
+    letter-spacing: -1px;
+}
+
+
+.highlight {
+    color: #fec222;
+}
+
+.content-light {
+    font-size: 1em;
+    font-weight: 200;
+    line-height: 1.5em;
+    color: #3d3d3d;
+}
+
+.content-dark-style {
+    color: #e6e6e6;
+}
+
+/*---------------------NAVIGATION-----------------*/
 nav a{
     font-size: 1.5em;
     font-weight: 800;
@@ -124,18 +155,18 @@ nav a:hover {
     -o-transition: all 0.1s ease-in-out;
 }
 
-.highlight {
-    color: #fec222;
-}
+/*---------------------------HERO------------------------------*/
 
-.btn-font {
-    font-size: 1em;
+#hero .content-stress {
+    font-size: 1.5em;
     font-weight: 700;
-    color: #3d3d3d;
+    color: white;
 }
 
-.btn-dark {
-    color: white;
+#hero .title {
+    font-size: 4em;
+    font-weight: 800;
+    font-style: oblique;
 }
 
 /*---------------------------FOOTER----------------------------*/
@@ -157,17 +188,17 @@ footer .content {
     line-height: 1.5em;
 }
 
-footer .content-stress {
-    font-size: 1em;
-    font-weight: 600;
-    line-height: 1.5em;
-}
-
 footer .content-light {
     font-size: 1em;
     font-weight: 200;
     line-height: 1.5em;
     color: #e6e6e6;
+}
+
+footer .content-stress {
+    font-size: 1em;
+    font-weight: 600;
+    line-height: 1.5em;
 }
 
 footer input {

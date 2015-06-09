@@ -30,6 +30,7 @@
     vertical-align: middle;
 }
 
+
 .relative {
     position: relative;
 }
@@ -47,7 +48,6 @@ a:visited,
 a:hover,
 a:active {
     text-decoration: none;
-    display: block;
 }
 
 ul,
@@ -55,17 +55,52 @@ ul li {
     display: inline-block;
 }
 
+.segment {
+    background-color: #fec222;
+    height: 5px;
+    width: auto;
+}
+
+.segment-dark {
+    background-color: #7d7d7d;
+}
+
+.btn {
+    border: 2px solid #fec222;
+    border-radius: 6px;
+    cursor: pointer;
+    display: inline-block;
+    line-height: 1;
+    padding: 12px 50px;
+    text-align: center;
+    -webkit-appearance: none;
+    background-color: rgba(255,255,255,0.0);
+    box-sizing: border-box;
+}
+
+.btn:hover {
+    background-color: #fec222;
+    transition: all 0.2s ease-in-out;
+    -webkit-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+}
+
+.btn-medium {
+
+}
+
+.btn-large {
+    padding: 13px 97px;
+    border: 3px solid #fec222;
+    border-radius: 8px;
+}
+
 /*-------------- HEADER ----------------*/
 #logo {
     margin: 8px auto 11px 0;
     width: 96px;
     height: 96px;
-}
-
-#segment {
-    background-color: #fec222;
-    height: 5px;
-    width: auto;
 }
 
 ul.medium-name {
@@ -123,6 +158,39 @@ ul.navigation a {
     background-image: url("../img/hero_1.png");
 }
 
+#slides .text {
+    padding-top: 16px;
+    width: 480px;
+    z-index: 100;
+    word-wrap: break-word;
+}
+
+#slides-bar {
+    position: absolute;
+    bottom: 48px;
+    z-index: 100;
+    text-align: center;
+    width: 100%;
+}
+
+.active {
+    background-position: bottom;
+    transition: all 0.2s ease-in-out;
+    -webkit-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+}
+
+.point {
+    width: 16px;
+    height: 16px;
+    background-image: url("../img/slides_point.png");
+    overflow: hidden;
+    display: inline-block;
+    cursor: pointer;
+    margin: 0 32px;
+}
+
 /*---------------------FOOTER-------------------------*/
 footer {
     background-color: #303030;
@@ -177,15 +245,3 @@ footer .form {
     float: right;
 }
 
-.btn {
-    border: 2px solid #fec222;
-    border-radius: 6px;
-    cursor: pointer;
-    display: inline-block;
-    line-height: 1;
-    padding: 12px 50px;
-    text-align: center;
-    -webkit-appearance: none;
-    background-color: rgba(255,255,255,0.0);
-    box-sizing: border-box;
-}
