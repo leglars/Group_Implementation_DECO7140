@@ -169,6 +169,21 @@ nav a:hover {
     font-style: oblique;
 }
 
+/*---------------------------TITLE-----------------------------*/
+#title .motto {
+    font-size: 2em;
+    font-weight: 500;
+    color: #363636;
+}
+
+#title .motto-detail {
+    font-size: 1.4em;
+    font-weight: 500;
+    color: #363636;
+    line-height: 1.5em;
+    letter-spacing: -1px;
+}
+
 /*---------------------------FOOTER----------------------------*/
 footer {
     color: #ffffff;

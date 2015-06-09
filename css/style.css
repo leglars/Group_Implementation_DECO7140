@@ -191,6 +191,24 @@ ul.navigation a {
     margin: 0 32px;
 }
 
+/*---------------------TITLE--------------------------*/
+#title {
+    background-color: #fec222;
+    text-align: center;
+    padding: 80px 0;
+}
+
+#title .motto-detail {
+    width: 720px;
+    word-wrap: break-word;
+}
+
+#title .segment {
+    width: 820px;
+    border-bottom: 2px solid #666666;
+    margin-bottom: 24px;
+    opacity: 0.3;
+}
 /*---------------------FOOTER-------------------------*/
 footer {
     background-color: #303030;
