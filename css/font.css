@@ -48,6 +48,15 @@
 
 @font-face {
     font-family:"Helvetica Neue";
+    font-style: oblique;
+    font-weight: 600;
+    src: local('HelveticaNeue Bold Condence'), local('HelveticaNeue-Bold-Condence'),
+    url(../font/HelveticaNeueBdCn.ttf),
+    url(../font/HelveticaNeueBdCn.woff);
+}
+
+@font-face {
+    font-family:"Helvetica Neue";
     font-style: normal;
     font-weight: 700;
     src: local('HelveticaNeue Heavy'), local('HelveticaNeue-Heavy'),
@@ -113,6 +122,78 @@ nav a:hover {
     -webkit-transition: all 0.1s ease-in-out;
     -moz-transition: all 0.1s ease-in-out;
     -o-transition: all 0.1s ease-in-out;
+}
+
+.highlight {
+    color: #fec222;
+}
+
+.btn-font {
+    font-size: 1em;
+    font-weight: 700;
+    color: #3d3d3d;
+}
+
+.btn-dark {
+    color: white;
+}
+
+/*---------------------------FOOTER----------------------------*/
+footer {
+    color: #ffffff;
+}
+
+footer .title {
+    font-size: 1.5em;
+    font-weight: 600;
+    font-style: oblique;
+    line-height: 3em;
+}
+
+footer .content {
+    font-size: 1em;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 1.5em;
+}
+
+footer .content-stress {
+    font-size: 1em;
+    font-weight: 600;
+    line-height: 1.5em;
+}
+
+footer .content-light {
+    font-size: 1em;
+    font-weight: 200;
+    line-height: 1.5em;
+    color: #e6e6e6;
+}
+
+footer input {
+    font-weight: 200;
+    color: #e6e6e6;
+}
+
+footer input::-webkit-input-placeholder { 
+    font-style: italic;
+    font-weight: 200;
+    color: #e6e6e6;
+}
+footer input:-moz-placeholder { 
+    font-style: italic;
+    font-weight: 200;
+    color: #e6e6e6;
+}
+footer input::-moz-placeholder { 
+    font-style: italic;
+    font-weight: 200;
+    color: #e6e6e6;
+}
+footer input:-ms-input-placeholder { 
+    font-style: italic;
+    font-weight: 200;
+    color: #e6e6e6;
 }
 
 

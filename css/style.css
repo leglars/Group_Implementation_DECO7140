@@ -7,7 +7,7 @@
 }
 
 .container {
-
+    margin-top: 40px;
 }
 
 .left {
@@ -68,18 +68,18 @@ ul li {
     width: auto;
 }
 
-ul.media {
+ul.medium-name {
     display: block;
     margin-top: 24px;
     text-align: right;
     height: 32px;
 }
 
-ul.media li {
+ul.medium-name li {
     padding-left: 20px;
 }
 
-ul.media a {
+ul.medium-name a {
     height: 32px;
 }
 
@@ -121,4 +121,71 @@ ul.navigation a {
 
 #slide_1 {
     background-image: url("../img/hero_1.png");
+}
+
+/*---------------------FOOTER-------------------------*/
+footer {
+    background-color: #303030;
+    margin-top: 32px;
+    padding-bottom: 80px;
+}
+
+footer .contact-us {
+    margin-right: 140px;
+}
+
+footer .medium {
+    margin-bottom: 16px;
+}
+
+footer .medium-name {
+    height: 32px;
+    padding-left: 10px;
+    padding-top: 4px;
+
+}
+
+footer .p-wrap {
+    width: 340px;
+    word-wrap: break-word;
+}
+
+footer .form-wrap {
+    width: 340px;
+    height: auto;
+    margin-top: 64px;
+}
+footer .form {
+    width: 100%;
+    height: auto;
+}
+
+#subscription input:not(.btn) {
+    width: 324px;
+    margin: 0 8px 24px 0;
+    padding-bottom: 4px;
+    padding-left: 4px;
+    background-color: rgba(255,255,255,0.0);
+    border: none;
+    border-bottom: 2px solid #fec222;
+    float: right
+}
+
+#subscription input[type = "submit"] {
+    margin-top: 24px;
+    margin-right: 8px;
+    float: right;
+}
+
+.btn {
+    border: 2px solid #fec222;
+    border-radius: 6px;
+    cursor: pointer;
+    display: inline-block;
+    line-height: 1;
+    padding: 12px 50px;
+    text-align: center;
+    -webkit-appearance: none;
+    background-color: rgba(255,255,255,0.0);
+    box-sizing: border-box;
 }
