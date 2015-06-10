@@ -109,6 +109,10 @@ ul li {
     background-image: url("../img/segment_line.png");
 }
 
+.segment-line-s {
+    height: 4px;
+}
+
 /*-------------- HEADER ----------------*/
 #logo {
     margin: 8px auto 11px 0;
@@ -351,6 +355,11 @@ li.project-highlight img {
     word-wrap: break-word;
 }
 
+#column-right .space {
+    margin: 120px 0;
+    text-indent: -9999px;
+}
+
 #wwt a {
     color: inherit;
 }
@@ -364,7 +373,7 @@ li.project-highlight img {
 }
 
 .article-view .more {
-    margin: 24px 8px 80px 8px;
+    margin: 24px 0 80px 8px;
 }
 
 .article-view .more .read-more {
@@ -373,7 +382,7 @@ li.project-highlight img {
 
 .social-share img{
     height: 32px;
-    margin-left: 20px;
+    margin-right: 20px;
 }
 
 .title-view {

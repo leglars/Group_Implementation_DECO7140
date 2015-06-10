@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c465047f-7b77-4dfe-9422-57fe50519aeb" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/article_content.html" afterPath="$PROJECT_DIR$/article_content.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/font.css" afterPath="$PROJECT_DIR$/css/font.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/model.html" afterPath="$PROJECT_DIR$/model.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/what_we_talk.html" afterPath="$PROJECT_DIR$/what_we_talk.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -30,8 +30,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-16.777779">
-              <caret line="84" column="33" selection-start-line="84" selection-start-column="33" selection-end-line="84" selection-end-column="33" />
+            <state vertical-scroll-proportion="-21.444445">
+              <caret line="91" column="0" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
               <folding>
                 <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -43,11 +43,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="what_we_talk.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="article_content.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/article_content.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="2.730897">
+              <caret line="137" column="94" selection-start-line="137" selection-start-column="94" selection-end-line="137" selection-end-column="94" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="what_we_talk.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/what_we_talk.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8604651">
-              <caret line="128" column="18" selection-start-line="128" selection-start-column="18" selection-end-line="128" selection-end-column="18" />
+            <state vertical-scroll-proportion="-19.333334">
+              <caret line="115" column="94" selection-start-line="115" selection-start-column="94" selection-end-line="115" selection-end-column="94" />
               <folding />
             </state>
           </provider>
@@ -57,7 +67,7 @@
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="370" column="22" selection-start-line="370" selection-start-column="22" selection-end-line="370" selection-end-column="22" />
+              <caret line="361" column="0" selection-start-line="361" selection-start-column="0" selection-end-line="361" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -67,7 +77,7 @@
         <entry file="file://$PROJECT_DIR$/css/font.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="207" column="55" selection-start-line="207" selection-start-column="55" selection-end-line="207" selection-end-column="55" />
+              <caret line="305" column="20" selection-start-line="305" selection-start-column="20" selection-end-line="305" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -100,8 +110,9 @@
         <option value="$PROJECT_DIR$/program_detail_infiniteleaders.html" />
         <option value="$PROJECT_DIR$/model.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/css/font.css" />
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/article_content.html" />
+        <option value="$PROJECT_DIR$/css/font.css" />
         <option value="$PROJECT_DIR$/what_we_talk.html" />
       </list>
     </option>
@@ -306,7 +317,13 @@
       <option name="project" value="LOCAL" />
       <updated>1433920087886</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="&quot;What we talk&quot; page module finish">
+      <created>1433944737166</created>
+      <option name="number" value="00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1433944737166</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -354,7 +371,8 @@
     <MESSAGE value="Hero section finish" />
     <MESSAGE value="Title section finish" />
     <MESSAGE value="Program_detail_page finish" />
-    <option name="LAST_COMMIT_MESSAGE" value="Program_detail_page finish" />
+    <MESSAGE value="&quot;What we talk&quot; page module finish" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;What we talk&quot; page module finish" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -733,13 +751,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/article_content.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/program_detail_infiniteleaders.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.4385382">
@@ -758,8 +769,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.777779">
-          <caret line="84" column="33" selection-start-line="84" selection-start-column="33" selection-end-line="84" selection-end-column="33" />
+        <state vertical-scroll-proportion="-21.444445">
+          <caret line="91" column="0" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -770,26 +781,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/font.css">
+    <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="207" column="55" selection-start-line="207" selection-start-column="55" selection-end-line="207" selection-end-column="55" />
+          <caret line="361" column="0" selection-start-line="361" selection-start-column="0" selection-end-line="361" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
+    <entry file="file://$PROJECT_DIR$/css/font.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="370" column="22" selection-start-line="370" selection-start-column="22" selection-end-line="370" selection-end-column="22" />
+          <caret line="305" column="20" selection-start-line="305" selection-start-column="20" selection-end-line="305" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/what_we_talk.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8604651">
-          <caret line="128" column="18" selection-start-line="128" selection-start-column="18" selection-end-line="128" selection-end-column="18" />
+        <state vertical-scroll-proportion="-19.333334">
+          <caret line="115" column="94" selection-start-line="115" selection-start-column="94" selection-end-line="115" selection-end-column="94" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article_content.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.730897">
+          <caret line="137" column="94" selection-start-line="137" selection-start-column="94" selection-end-line="137" selection-end-column="94" />
           <folding />
         </state>
       </provider>

@@ -30,6 +30,15 @@
 
 @font-face {
     font-family:"Helvetica Neue";
+    font-style: italic;
+    font-weight: 400;
+    src: local('HelveticaNeue Italic'), local('HelveticaNeue-Italic'),
+    url(../font/HelveticaNeueIt.ttf),
+    url(../font/HelveticaNeueIt.woff);
+}
+
+@font-face {
+    font-family:"Helvetica Neue";
     font-style: normal;
     font-weight: 500;
     src: local('HelveticaNeue Medium'), local('HelveticaNeue-Medium'),
@@ -294,7 +303,7 @@ footer input:-ms-input-placeholder {
 }
  /*--------------------------------WHAT WE TALK-----------------------------*/
 #wwt #column-right .content {
-    line-height: 1.3em;
+    line-height: 1.4em;
     margin-bottom: 0.5em;
 }
 
