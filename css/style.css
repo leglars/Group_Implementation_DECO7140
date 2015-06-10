@@ -22,6 +22,10 @@
     text-align: left;
 }
 
+.text-center {
+    text-align: center;
+}
+
 .middle {
     margin: 0 auto;
 }
@@ -80,6 +84,7 @@ ul li {
 
 .btn:hover {
     background-color: #fec222;
+    color: white;
     transition: all 0.2s ease-in-out;
     -webkit-transition: all 0.2s ease-in-out;
     -moz-transition: all 0.2s ease-in-out;
@@ -87,7 +92,9 @@ ul li {
 }
 
 .btn-medium {
-
+    padding: 12px 72px;
+    border: 3px solid #fec222;
+    border-radius: 7px;
 }
 
 .btn-large {
@@ -222,12 +229,13 @@ footer .contact-us {
 
 footer .medium {
     margin-bottom: 16px;
+    width: 120px;
 }
 
 footer .medium-name {
     height: 32px;
     padding-left: 10px;
-    padding-top: 4px;
+    line-height: 32px;
 
 }
 
@@ -263,3 +271,63 @@ footer .form {
     float: right;
 }
 
+/*---------------------------PROGRAM_DETAIL_PAGE--------------------------*/
+.page-hero {
+    width: 100%;
+    height: 504px;
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: cover;
+}
+
+#infinite-page-hero {
+    background-image: url("../img/infinite_page_hero.jpg");
+}
+#project-intro {
+    margin-top: 96px;
+}
+
+#project-intro .avatar {
+    margin-left: 36px;
+    margin-top: 16px;
+}
+
+.project-intro {
+    width: 580px;
+    margin-right: 120px;
+    word-wrap: break-word;
+}
+
+.project-highlight {
+    height: 64px;
+    line-height: 64px;
+    margin-right: 48px;
+}
+
+#project-highlight ul {
+    position:relative; left:50%; float:left;
+}
+#project-highlight ul li{
+    position:relative; right:50%; float:left;
+}
+#project-highlight {
+    min-width: 1150px;
+}
+
+li.project-highlight img {
+    height: 64px;
+    margin-right: 16px;
+}
+
+#project-detail {
+    margin-bottom: 80px;
+}
+
+#project-detail .padding {
+    padding: 56px 48px 80px 48px;
+}
+
+#project-detail .column {
+    width: 424px;
+    word-wrap: break-word;
+}

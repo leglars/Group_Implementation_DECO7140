@@ -89,11 +89,31 @@ body {
 
 
 h1 {
-
+    font-size: 2em;
+    font-weight: 500;
+    color: #252525;
+    margin-bottom: 80px;
 }
 
 h2 {
+    font-size: 1.5em;
+    font-weight: 600;
+    color: #252525;
+    margin-bottom: 1.5em;
+}
 
+.h2 {
+    font-size: 1.5em;
+    font-weight: 600;
+    color: #252525;
+}
+
+.letter-spacing-s {
+    letter-spacing: -0.5px;
+}
+
+.letter-spacing-m {
+    letter-spacing: -1px;
 }
 
 h3 {
@@ -111,6 +131,10 @@ h3 {
     color: white;
 }
 
+.btn-medium {
+    font-size: 1.3em;
+}
+
 .btn-large {
     font-size: 1.5em;
     letter-spacing: -1px;
@@ -125,7 +149,13 @@ h3 {
     font-size: 1em;
     font-weight: 200;
     line-height: 1.5em;
-    color: #3d3d3d;
+    color: #464646;
+}
+
+.content {
+    font-size: 1em;
+    font-weight: 400;
+    color: #464646;
 }
 
 .content-dark-style {
