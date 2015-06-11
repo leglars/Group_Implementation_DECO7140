@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c465047f-7b77-4dfe-9422-57fe50519aeb" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/article_content.html" afterPath="$PROJECT_DIR$/article_content.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/font.css" afterPath="$PROJECT_DIR$/css/font.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Group_Implementation_DECO7140.iws" />
@@ -29,8 +26,8 @@
       <file leaf-file-name="article_content.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/article_content.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.5780731">
-              <caret line="212" column="73" selection-start-line="212" selection-start-column="73" selection-end-line="212" selection-end-column="73" />
+            <state vertical-scroll-proportion="0.7209302">
+              <caret line="169" column="0" selection-start-line="169" selection-start-column="0" selection-end-line="169" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -326,7 +323,13 @@
       <option name="project" value="LOCAL" />
       <updated>1434011393396</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="fix &lt;a&gt; btn color">
+      <created>1434012752635</created>
+      <option name="number" value="00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1434012752635</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -378,7 +381,8 @@
     <MESSAGE value="&quot;article content&quot; page module finish" />
     <MESSAGE value="Fix &lt;br&gt;. Use &lt;p&gt; tag to wrap all contents" />
     <MESSAGE value="Fix the size problem of #logo img" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix the size problem of #logo img" />
+    <MESSAGE value="fix &lt;a&gt; btn color" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix &lt;a&gt; btn color" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -796,8 +800,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/article_content.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.5780731">
-          <caret line="212" column="73" selection-start-line="212" selection-start-column="73" selection-end-line="212" selection-end-column="73" />
+        <state vertical-scroll-proportion="0.7209302">
+          <caret line="169" column="0" selection-start-line="169" selection-start-column="0" selection-end-line="169" selection-end-column="0" />
           <folding />
         </state>
       </provider>
