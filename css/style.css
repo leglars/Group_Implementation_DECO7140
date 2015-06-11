@@ -120,6 +120,10 @@ ul li {
     height: 96px;
 }
 
+#logo img {
+    width: 96px;
+}
+
 ul.medium-name {
     display: block;
     margin-top: 24px;
