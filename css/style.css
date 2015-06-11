@@ -82,7 +82,8 @@ ul li {
     box-sizing: border-box;
 }
 
-.btn:hover {
+.btn:hover,
+#wwt a[content="comment"]:hover {
     background-color: #fec222;
     color: white;
     transition: all 0.2s ease-in-out;
@@ -433,4 +434,9 @@ li.project-highlight img {
 
 #comments .c-tag a:hover {
     color: #fec222;
+}
+
+#wwt a[content="comment"] {
+    margin-top: 32px;
+    margin-bottom: 112px;
 }
