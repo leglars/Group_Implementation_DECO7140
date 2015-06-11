@@ -2,15 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c465047f-7b77-4dfe-9422-57fe50519aeb" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/article_content.html" afterPath="$PROJECT_DIR$/article_content.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/join_us.html" afterPath="$PROJECT_DIR$/join_us.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/model.html" afterPath="$PROJECT_DIR$/model.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program_detail_infiniteleaders.html" afterPath="$PROJECT_DIR$/program_detail_infiniteleaders.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/what_we_do.html" afterPath="$PROJECT_DIR$/what_we_do.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/what_we_talk.html" afterPath="$PROJECT_DIR$/what_we_talk.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/who_we_are.html" afterPath="$PROJECT_DIR$/who_we_are.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Group_Implementation_DECO7140.iws" />
@@ -381,11 +372,17 @@
       <option name="project" value="LOCAL" />
       <updated>1433990989814</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Fix the size problem of #logo img">
+      <created>1433991427246</created>
+      <option name="number" value="00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1433991427246</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1098" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1098" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.10729167" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -432,7 +429,8 @@
     <MESSAGE value="&quot;What we talk&quot; page module finish" />
     <MESSAGE value="&quot;article content&quot; page module finish" />
     <MESSAGE value="Fix &lt;br&gt;. Use &lt;p&gt; tag to wrap all contents" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix &lt;br&gt;. Use &lt;p&gt; tag to wrap all contents" />
+    <MESSAGE value="Fix the size problem of #logo img" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix the size problem of #logo img" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
