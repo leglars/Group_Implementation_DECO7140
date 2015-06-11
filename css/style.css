@@ -388,3 +388,7 @@ li.project-highlight img {
 .title-view {
     margin: 32px 0 16px 0;
 }
+
+.paragraph>p{
+    margin-bottom: 1em;
+}
