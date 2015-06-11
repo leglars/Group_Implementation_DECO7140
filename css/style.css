@@ -26,6 +26,10 @@
     text-align: center;
 }
 
+.text-right {
+    text-align: right;
+}
+
 .middle {
     margin: 0 auto;
 }
@@ -231,6 +235,91 @@ ul.navigation a {
     margin-bottom: 24px;
     opacity: 0.3;
 }
+
+/*---------------------INTRODUCTION-------------------*/
+
+#introduction {
+    margin: 80px 0 48px 0;
+}
+
+#introduction #column-left{
+    width: 120px;
+}
+
+#introduction #column-right {
+    width: 820px;
+}
+
+#intro {
+    padding-left: 120px;
+    word-wrap: break-word;
+}
+
+#citation {
+    padding-left: 40px;
+    margin-top: 56px;
+}
+
+.quotation-left,
+.quotation-right {
+    width: 29px;
+    height: 96px;
+    padding: 0 20px;
+
+}
+.quotation-left img {
+
+}
+
+.quotation-right img {
+    position: absolute;
+    right: 20px;
+    bottom: 0;
+}
+
+.index-quo-content {
+    position: absolute;
+    left: 69px;
+    width: 642px;
+}
+
+#citation .cited-person {
+    margin: 32px 0 32px 20px;
+}
+
+/*---------------------PROJECT------------------------*/
+#project .margin {
+    margin: 56px 0;
+}
+
+#project {
+    margin-bottom: 64px;
+}
+
+.intro-project {
+    width: 240px;
+}
+
+.project-middle {
+    margin: 0 165px;
+}
+
+#project .project-img {
+    line-height: 96px;
+    margin-bottom: 32px;
+}
+
+/*---------------------STORIES------------------------*/
+#story .column {
+    width: 500px;
+    word-wrap: break-word;
+}
+
+.story {
+    height: 240px;
+    margin-top: 32px;
+}
+
 /*---------------------FOOTER-------------------------*/
 footer {
     background-color: #303030;
@@ -350,19 +439,19 @@ li.project-highlight img {
 /*-----------------------------------WHAT WE TALK--------------------------------*/
 /*-----------------------------------ARTICLE CONTENT-----------------------------*/
 
-#column-left {
+#wwt #column-left {
     width: 580px;
     height: auto;
     word-wrap: break-word;
 }
 
-#column-right {
+#wwt #column-right {
     width: 340px;
     height: auto;
     word-wrap: break-word;
 }
 
-#column-right .space {
+#wwt #column-right .space {
     margin: 120px 0;
     text-indent: -9999px;
 }

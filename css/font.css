@@ -123,6 +123,10 @@ h2 {
     color: #252525;
 }
 
+.h2-large {
+    font-size: 2em;
+}
+
 .letter-spacing-s {
     letter-spacing: -0.5px;
 }
@@ -168,10 +172,6 @@ h3 {
     font-style: italic;
 }
 
-.content-large {
-    font-size: 1.5em;
-}
-
 .content-light {
     font-size: 1em;
     font-weight: 200;
@@ -185,8 +185,22 @@ h3 {
     color: #464646;
 }
 
+.content-stress {
+    font-size: 1em;
+    font-weight: 600;
+    line-height: 1.5em;
+}
+
 .content-dark-style {
     color: #e6e6e6;
+}
+
+.content-large {
+    font-size: 1.5em;
+}
+
+.content-margin {
+    margin-bottom: 1em;
 }
 
 /*---------------------NAVIGATION-----------------*/
@@ -243,6 +257,20 @@ nav a:hover,
     letter-spacing: -1px;
 }
 
+/*---------------------------STORY-----------------------------*/
+#story .tag {
+    font-size: 1.3em;
+    font-weight: 500;
+    color: #9a9a9a;
+    line-height: 1.5em;
+}
+
+#story .title {
+    font-size: 1.5em;
+    font-weight: 600;
+    font-style: oblique;
+}
+
 /*---------------------------FOOTER----------------------------*/
 footer {
     color: #ffffff;
@@ -268,12 +296,6 @@ footer .content-light {
     font-weight: 200;
     line-height: 1.5em;
     color: #e6e6e6;
-}
-
-.content-stress {
-    font-size: 1em;
-    font-weight: 600;
-    line-height: 1.5em;
 }
 
 footer input {
