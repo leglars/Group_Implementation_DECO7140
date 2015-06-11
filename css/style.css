@@ -407,7 +407,6 @@ li.project-highlight img {
 
 .comment {
     width: 500px;
-    text-align: left;
     margin-bottom: 20px;
 }
 
@@ -422,8 +421,6 @@ li.project-highlight img {
 #comments .c-content {
     margin-bottom: 10px;
 }
-
-
 
 #replay {
     padding-left: 68px;
