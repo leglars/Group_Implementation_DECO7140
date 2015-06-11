@@ -347,6 +347,8 @@ li.project-highlight img {
 }
 
 /*-----------------------------------WHAT WE TALK--------------------------------*/
+/*-----------------------------------ARTICLE CONTENT-----------------------------*/
+
 #column-left {
     width: 580px;
     height: auto;
@@ -395,4 +397,43 @@ li.project-highlight img {
 
 .paragraph>p{
     margin-bottom: 1em;
+}
+
+/*------------COMMENTS-----------*/
+
+#comments .avatar img {
+    width: 48px;
+}
+
+.comment {
+    width: 500px;
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+#comments .avatar {
+    margin-right: 20px;
+}
+
+#comments .c-name {
+    margin-bottom: 10px;
+}
+
+#comments .c-content {
+    margin-bottom: 10px;
+}
+
+
+
+#replay {
+    padding-left: 68px;
+    margin: 16px 0;
+}
+
+.replay {
+    width: 442px;
+}
+
+#comments .c-tag a:hover {
+    color: #fec222;
 }
