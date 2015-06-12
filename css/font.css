@@ -257,6 +257,13 @@ nav a:hover,
     letter-spacing: -1px;
 }
 
+#title-dark .motto {
+    font-size: 1.5em;
+    font-weight: 600;
+    line-height: 1.5em;
+    color: white;
+}
+
 /*---------------------------STORY-----------------------------*/
 #story .tag {
     font-size: 1.3em;

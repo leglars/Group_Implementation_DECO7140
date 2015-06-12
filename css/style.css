@@ -224,6 +224,15 @@ ul.navigation a {
     padding: 80px 0;
 }
 
+#title-dark {
+    background-color: #666666;
+    padding: 80px 0 56px 0;
+}
+
+#title-dark .motto {
+    padding: 0 100px;
+}
+
 #title .motto-detail {
     width: 720px;
     word-wrap: break-word;
@@ -237,6 +246,7 @@ ul.navigation a {
 }
 
 /*---------------------INTRODUCTION-------------------*/
+/*---------------------WHO WE ARE---------------------*/
 
 #introduction {
     margin: 80px 0 48px 0;
@@ -255,10 +265,45 @@ ul.navigation a {
     word-wrap: break-word;
 }
 
-#citation {
+.intro {
+    padding: 0 120px 0 240px;
+    margin: 48px 0 128px 0;
+}
+
+.column-cite {
+    width: 820px;
+}
+
+.column-cite .cite-wrap {
+    width: 780px;
+}
+
+.column-cite .segment {
+    width: 780px;
+    height: 2px;
+    background-color: #9a9a9a;
+    margin: 0 20px 6px 20px;
+}
+
+.column-avatar {
+    width: 220px;
+}
+
+.column-avatar img{
+    width: 120px;
+}
+
+#citation .margin {
+    margin-top: 80px;
+    margin-bottom: 56px;
+}
+
+.citation {
     padding-left: 40px;
     margin-top: 56px;
 }
+
+
 
 .quotation-left,
 .quotation-right {
@@ -267,8 +312,9 @@ ul.navigation a {
     padding: 0 20px;
 
 }
-.quotation-left img {
 
+.quo-five {
+    height: 120px;
 }
 
 .quotation-right img {
@@ -283,7 +329,13 @@ ul.navigation a {
     width: 642px;
 }
 
-#citation .cited-person {
+.quo-content {
+    position: absolute;
+    left: 69px;
+    width: 642px;
+}
+
+.cited-person {
     margin: 32px 0 32px 20px;
 }
 
@@ -310,6 +362,10 @@ ul.navigation a {
 }
 
 /*---------------------STORIES------------------------*/
+#story {
+    margin-bottom: 80px;
+}
+
 #story .column {
     width: 500px;
     word-wrap: break-word;
