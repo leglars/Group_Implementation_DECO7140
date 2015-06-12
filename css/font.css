@@ -220,7 +220,8 @@ nav a:active {
 
 nav a:hover,
 #wwt .filter a:hover,
-#wwt .article-view .more a:hover {
+#wwt .article-view .more a:hover,
+#wwd a:hover {
     color: #fec222;
     transition: all 0.1s ease-in-out;
     -webkit-transition: all 0.1s ease-in-out;

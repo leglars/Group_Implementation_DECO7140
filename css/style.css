@@ -512,7 +512,8 @@ li.project-highlight img {
     text-indent: -9999px;
 }
 
-#wwt a {
+#wwt a,
+#wwd a{
     color: inherit;
 }
 
@@ -592,7 +593,6 @@ li.project-highlight img {
     word-wrap: break-word;
 }
 
-
 #join-us form {
     margin: 40px 32px 160px 0;
 }
@@ -661,4 +661,23 @@ footer .feedback img {
     -webkit-transition: all 0.2s ease-in-out;
     -moz-transition: all 0.2s ease-in-out;
     -o-transition: all 0.2s ease-in-out;
+}
+
+/*-------------------------------WHAT WE DO---------------------------*/
+#wwd {
+    margin-bottom: 96px;
+}
+
+#wwd .column {
+    width: 480px;
+    word-wrap: break-word;
+}
+
+#wwd .pro-img {
+    width: 180px;
+}
+
+#wwd .pro-intro {
+    width: 280px;
+    padding-left: 20px;
 }
