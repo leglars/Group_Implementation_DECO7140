@@ -255,8 +255,20 @@
                         other goodies. Subscribe now!</p>
                     <div class="form-wrap">
                         <form method="post" id="subscription">
-                            <input name="name" id="name" placeholder="Your Name: Winfried Sitte" required>
-                            <input type="email" name="email" id="email" placeholder="E-mail: sitte.w@infiniteleaders.com" required>
+                            <div class="relative clear">
+                                <input name="name" placeholder="Your Name: Winfried Sitte" required>
+                                <div class="feedback">
+                                    <img class="disappear" src="img/tip_r.png" alt="right">
+                                    <img class="disappear" src="img/error.png" alt="error">
+                                </div>
+                            </div>
+                            <div class="relative clear">
+                                <input type="email" name="email" placeholder="E-mail: sitte.w@infiniteleaders.com" required>
+                                <div class="feedback">
+                                    <img class="disappear appear" src="img/tip_r.png" alt="right">
+                                    <img class="disappear" src="img/error.png" alt="error">
+                                </div>
+                            </div>
                             <input class="btn btn-dark btn-font" type="submit" name="submit" value="Submit">
                         </form>
                     </div>
