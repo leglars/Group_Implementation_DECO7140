@@ -336,3 +336,36 @@ footer input:-ms-input-placeholder {
     margin-bottom: 0.5em;
 }
 
+/*---------------------------------JOIN US----------------------------------*/
+#join-us input:not(.btn) {
+    font-size: 1.1em;
+    font-weight: 600;
+    color: #464646;
+}
+
+#join-us input::-webkit-input-placeholder {
+    font-size: 1.1em;
+    font-weight: 400;
+    color: #666666;
+}
+#join-us input:-moz-placeholder {
+    font-size: 1.1em;
+    font-weight: 400;
+    color: #666666;
+}
+#join-us input::-moz-placeholder {
+    font-size: 1.1em;
+    font-weight: 400;
+    color: #666666;
+}
+#join-us input:-ms-input-placeholder {
+    font-size: 1.1em;
+    font-weight: 400;
+    color: #666666;
+}
+
+#join-us .select-box label {
+    font-size: 1.1em;
+    font-weight: 500;
+    color: #666666;
+}

@@ -585,3 +585,80 @@ li.project-highlight img {
     margin-top: 32px;
     margin-bottom: 112px;
 }
+
+/*--------------------------------JOIN US-------------------------*/
+#join-us .column {
+    width: 42%;
+    word-wrap: break-word;
+}
+
+
+#join-us form {
+    margin: 40px 32px 160px 0;
+}
+
+#join-us input:not(.btn) {
+    width: 100%;
+    margin: 0px 8px 24px 0;
+    padding: 2px 0 6px 4px;
+    background-color: rgba(255,255,255,0.0);
+    border: none;
+    border-bottom: 2px solid #bbbbbb;
+    float: left
+}
+
+#join-us input[type = "submit"] {
+    margin-top: 24px;
+    margin-right: 8px;
+    float: right;
+}
+
+#join-us .select-box {
+    margin: 0 8px 32px 0;
+}
+
+#join-us .select-box label {
+    display: inline-block;
+    width: 240px;
+}
+
+#join-us .select-box select {
+    width: 120px;
+    background-color: rgba(255,255,255,0.0);
+    border: none;
+    border-bottom: 2px solid #aaaaaa;
+}
+
+.feedback {
+    height: 21px;
+    position: absolute;
+    left: 390px;
+    top: 2px;
+}
+
+footer .feedback {
+    height: 18px;
+    position: absolute;
+    left: 314px;
+    top: 0;
+}
+
+footer .feedback img {
+    height: 18px;
+}
+
+.feedback img {
+    position: absolute;
+}
+
+.disappear {
+    opacity: 0.0;
+}
+
+.appear {
+    opacity: 1.0;
+    transition: all 0.2s ease-in-out;
+    -webkit-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+}
