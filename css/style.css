@@ -443,6 +443,15 @@ footer .form {
 #infinite-page-hero {
     background-image: url("../img/infinite_page_hero.jpg");
 }
+
+/*--------------helen add css----------------*/
+#infinite-page-hero-2 {
+    background-image: url("../img/xo_life_page2.jpg");
+}
+#infinite-page-hero-3 {
+    background-image: url("../img/teahouse.jpg");
+}
+
 #project-intro {
     margin-top: 96px;
 }
