@@ -1,18 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c465047f-7b77-4dfe-9422-57fe50519aeb" name="Default" comment="index page hero finish" />
-    <list id="1e439ebc-6a9b-4289-b690-31d039f8f724" name="New changelist" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/hero_slides.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/font.css" afterPath="$PROJECT_DIR$/css/font.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
+    <list default="true" id="c465047f-7b77-4dfe-9422-57fe50519aeb" name="Default" comment="index page hero finish">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Group_Implementation_DECO7140.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <file path="$PROJECT_DIR$/index.html" ignored="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -338,7 +332,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="c465047f-7b77-4dfe-9422-57fe50519aeb" name="Default" comment="" />
-      <changelist id="1e439ebc-6a9b-4289-b690-31d039f8f724" name="New changelist" comment="" />
+      <changelist id="" name="New changelist" comment="" />
       <created>1432469140995</created>
       <option name="number" value="Default" />
       <updated>1432469140995</updated>
@@ -529,7 +523,13 @@
       <option name="project" value="LOCAL" />
       <updated>1434187804765</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Hero animation finish">
+      <created>1434188281221</created>
+      <option name="number" value="00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1434188281221</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -568,7 +568,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="hero initial" />
     <MESSAGE value="footer finish" />
     <MESSAGE value="model page" />
     <MESSAGE value="main structure of website" />
@@ -593,7 +592,8 @@
     <MESSAGE value="validation function for form at footer" />
     <MESSAGE value="all footer and header update" />
     <MESSAGE value="join us page validation finish" />
-    <option name="LAST_COMMIT_MESSAGE" value="join us page validation finish" />
+    <MESSAGE value="Hero animation finish" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hero animation finish" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
