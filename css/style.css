@@ -86,6 +86,10 @@ ul li {
     box-sizing: border-box;
 }
 
+.btn-light {
+    background-color: rgba(254,194,34,0.3);
+}
+
 .btn:hover,
 #wwt a[content="comment"]:hover {
     background-color: #fec222;
@@ -178,10 +182,24 @@ ul.navigation a {
     background-repeat: no-repeat;
     background-position: left top;
     background-size: cover;
+    display: none;
 }
 
 #slide_1 {
     background-image: url("../img/hero_1.png");
+    display: block;
+}
+
+#slide_2{
+    background-image: url("../img/hero_2.jpg");
+}
+
+#slide_3 {
+    background-image: url("../img/infinite_page_hero.jpg");
+}
+
+#slide_4 {
+    background-image: url("../img/hero_4.jpg");
 }
 
 #slides .text {
@@ -201,10 +219,6 @@ ul.navigation a {
 
 .active {
     background-position: bottom;
-    transition: all 0.2s ease-in-out;
-    -webkit-transition: all 0.2s ease-in-out;
-    -moz-transition: all 0.2s ease-in-out;
-    -o-transition: all 0.2s ease-in-out;
 }
 
 .point {
