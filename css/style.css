@@ -482,6 +482,26 @@ footer a:hover {
     background-image: url("../img/teahouse.jpg");
 }
 
+#teahouse #project-intro a,
+#teahouse #project-detail div.paragraph a,
+#teahouse #project-intro a:link,
+#teahouse #project-detail div.paragraph a:link,
+#teahouse #project-intro a:visited,
+#teahouse #project-detail div.paragraph a:visited,
+#teahouse #project-intro a:active,
+#teahouse #project-detail div.paragraph a:active {
+    color: inherit;
+}
+
+#teahouse #project-intro a:hover,
+#teahouse #project-detail div.paragraph a:hover {
+    color: #fec222;
+    transition: all 0.1s ease-in-out;
+    -webkit-transition: all 0.1s ease-in-out;
+    -moz-transition: all 0.1s ease-in-out;
+    -o-transition: all 0.1s ease-in-out;
+}
+
 #project-intro {
     margin-top: 96px;
 }
