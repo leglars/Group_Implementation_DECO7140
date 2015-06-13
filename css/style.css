@@ -574,6 +574,8 @@ li.project-highlight img {
     word-wrap: break-word;
 }
 
+
+
 #wwt #column-right {
     width: 340px;
     height: auto;
@@ -617,6 +619,21 @@ li.project-highlight img {
 
 .paragraph>p{
     margin-bottom: 1em;
+}
+
+#wwt #column-left ul li a:hover {
+    color: #fec222;
+    transition: all 0.1s ease-in-out;
+    -webkit-transition: all 0.1s ease-in-out;
+    -moz-transition: all 0.1s ease-in-out;
+    -o-transition: all 0.1s ease-in-out;
+}
+
+#wwt #column-left ul li a {
+    width: 20px;
+    padding: 0 12px;
+    text-align: center;
+    display: inline-block;
 }
 
 /*------------COMMENTS-----------*/

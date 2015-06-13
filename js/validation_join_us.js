@@ -106,7 +106,7 @@ $(function() {
 
     // click submit: if all fields are done, the form can be submited.
     $('#sign-in input[name="submit"]').click(function () {
-        if(flag3 && flag4) {
+        if(flag3 || flag4) {
             $("form").submit();
         }
         else {
