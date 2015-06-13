@@ -372,8 +372,23 @@ ul.navigation a {
 }
 
 .story {
-    height: 240px;
+    height: 280px;
     margin-top: 32px;
+}
+
+#story .title a,
+#story a:link,
+#story a:visited,
+#story a:visited {
+    color: inherit;
+}
+
+#story div.paragraph a:hover {
+    color: #fec222;
+    transition: all 0.1s ease-in-out;
+    -webkit-transition: all 0.1s ease-in-out;
+    -moz-transition: all 0.1s ease-in-out;
+    -o-transition: all 0.1s ease-in-out;
 }
 
 /*---------------------FOOTER-------------------------*/
@@ -412,6 +427,21 @@ footer .form-wrap {
 footer .form {
     width: 100%;
     height: auto;
+}
+
+footer a,
+footer a:link,
+footer a:visited,
+footer a:active {
+    color: white;
+}
+
+footer a:hover {
+    color: #fec222;
+    transition: all 0.1s ease-in-out;
+    -webkit-transition: all 0.1s ease-in-out;
+    -moz-transition: all 0.1s ease-in-out;
+    -o-transition: all 0.1s ease-in-out;
 }
 
 #subscription input:not(.btn) {
@@ -671,6 +701,8 @@ footer .feedback img {
     -moz-transition: all 0.2s ease-in-out;
     -o-transition: all 0.2s ease-in-out;
 }
+
+
 
 /*-------------------------------WHAT WE DO---------------------------*/
 #wwd {
