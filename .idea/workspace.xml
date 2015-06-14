@@ -600,11 +600,17 @@
       <option name="project" value="LOCAL" />
       <updated>1434285083064</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="fix few bugs">
+      <created>1434285531323</created>
+      <option name="number" value="00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1434285531323</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="489" y="0" width="1431" height="1080" extended-state="0" />
+    <frame x="489" y="0" width="1431" height="1080" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14437367" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -639,7 +645,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Program_detail_page finish" />
     <MESSAGE value="&quot;What we talk&quot; page module finish" />
     <MESSAGE value="&quot;article content&quot; page module finish" />
     <MESSAGE value="Fix &lt;br&gt;. Use &lt;p&gt; tag to wrap all contents" />
@@ -664,7 +669,8 @@
     <MESSAGE value="pop-up form" />
     <MESSAGE value="pop-up form finish" />
     <MESSAGE value="back2top function" />
-    <option name="LAST_COMMIT_MESSAGE" value="back2top function" />
+    <MESSAGE value="fix few bugs" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix few bugs" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
