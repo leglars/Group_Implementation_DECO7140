@@ -349,34 +349,40 @@ footer input:-ms-input-placeholder {
 }
 
 /*---------------------------------JOIN US----------------------------------*/
-#join-us input:not(.btn) {
+#join-us input:not(.btn),
+#enquiry input:not(.btn) {
     font-size: 1.1em;
     font-weight: 600;
     color: #464646;
 }
 
-#join-us input::-webkit-input-placeholder {
+#join-us input::-webkit-input-placeholder,
+#enquiry input::-webkit-input-placeholder {
     font-size: 1.1em;
     font-weight: 400;
     color: #666666;
 }
-#join-us input:-moz-placeholder {
+#join-us input:-moz-placeholder,
+#enquiry input:-moz-placeholder {
     font-size: 1.1em;
     font-weight: 400;
     color: #666666;
 }
-#join-us input::-moz-placeholder {
+#join-us input::-moz-placeholder,
+#enquiry input::-moz-placeholder {
     font-size: 1.1em;
     font-weight: 400;
     color: #666666;
 }
-#join-us input:-ms-input-placeholder {
+#join-us input:-ms-input-placeholder,
+#enquiry input::-moz-placeholder {
     font-size: 1.1em;
     font-weight: 400;
     color: #666666;
 }
 
-#join-us .select-box label {
+#join-us .select-box label,
+#enquiry .select-box label {
     font-size: 1.1em;
     font-weight: 500;
     color: #666666;

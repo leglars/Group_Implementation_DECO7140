@@ -1,60 +1,49 @@
 /**
- * Created by ры on 2015/6/13.
+ * Created by ры on 2015/6/14.
  */
 
-$(function() {
-    var flag2 = false;
+// create a pop-up form
+
+$("#reg-button").click(function() { // when click register button, the form will pop up.
+    $(".mask").css("opacity", 0.8).fadeIn(600); // mask-up level shows up
+    $("#register").show().animate({top: 64}, 500, "easeOutQuad"); // register form moves from the top of window.
+});
+
+$(".mask, .close").click(function() {
+    $("#register").animate({top: -864}, 500, "easeOutQuad", // set move out animation of form
+        function() { // form disappears by animation
+        $("#register").hide(); // display: none
+        });
+    $(".mask").fadeOut(600); // mask-up level fadeout
+});
+
+//form left validation
+
+$( function() {
+
     var flag3 = false;
     var flag4 = false;
 
-    //validate email
-    // regular expression refers from http://www.jb51.net/article/19493.htmv
-    $('#newsletter input[name="email"]').blur(function () {
-        // the validate condition to test is the input is follow a normal email address format.
-        if ($(this).val().search(/\w+([-+.]\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*/)==-1) {
-            // the form tag has a empty input validation already, so we don't need to consider the empty situaton.
-            if ($(this).val() == "") {
-                $(this).next().children().removeClass("appear"); // if the input is empty, clear the feedback icon.
-                flag1 = false; // reset the flag value
-            }
-            else {
-                if ($(this).val() != "") {
-                    $(this).next().children().removeClass("appear"); // clear the former displayed icon
-                    $(this).next().children('img[alt="error"]').addClass("appear"); // show the error icon
-                    flag2 = false; // reset the flag value
-                }
-
-            }
-        }
-        else {
-                $(this).next().children().removeClass("appear"); //clear the former displayed icon
-                $(this).next().children('img[alt="right"]').addClass("appear"); // show the right icon
-                flag2 = true; // give flag2 a value to help pass the validation of submit
-        }
-    });
-
-    // click submit: if all fields are done, the form can be submited.
-    $('#newsletter input[name="submit"]').click(function () {
-        if(flag2) {
-            $("form").submit();
-        }
-        else {
-            return false;
-        };
-    });
-
-
-
-    //form left validation
     //this function is to switch the relative validation function according to the contact type chose by users
-    $('#sign-in input[name="contact"]').blur(function () {
+    $('#enquiry select[name="contact"]').click(function () { // choose contact type
         // justify the type of contact
-        if ($('#sign-in select[name="contact"]').val() == "email") {
-            validationEmail($(this)); // call email validation function
+        if ($(this).val() == "email") {
+            $('#enquiry input[name="email"]').css("display", "block"); // display email input
+            $('#enquiry input[name="phone"]').css("display", "none"); // don't display phone number input
+
         }
         else {
-            validationPhone($(this)); // call phone validation function
+            $('#enquiry input[name="email"]').css("display", "none"); // don't display email input
+            $('#enquiry input[name="phone"]').css("display", "block");// display phone number input
         }
+    });
+
+    $('#enquiry input[name="email"]').blur(function () {
+        validationEmail($(this)); // call email validation function
+    });
+
+    $('#enquiry input[name="phone"]').blur(function () {
+        validationPhone($(this)); // call phone number validation function
     });
 
     //validate email format
@@ -113,13 +102,13 @@ $(function() {
     }
 
     // click submit: if all fields are done, the form can be submited.
-    $('#sign-in input[name="submit"]').click(function () {
+    $('#enquiry input[name="submit"]').click(function () {
         if(flag3 || flag4) {
             $("form").submit();
         }
         else {
             return false;
-        };
+        }
     });
-
 });
+
