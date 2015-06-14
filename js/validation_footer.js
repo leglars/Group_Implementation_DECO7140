@@ -41,3 +41,9 @@ $(function() {
         };
     });
 });
+
+//Back to the top of this page
+$("#back-to-top").click(function(){ // when click a#back-to-top, call this function
+    toTop = $("BODY")[0]; // get the DOM position of body tag
+    toTop.scrollIntoView(true); // return to the top
+});
