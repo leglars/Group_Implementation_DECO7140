@@ -2,18 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c465047f-7b77-4dfe-9422-57fe50519aeb" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/article_content_1.html" afterPath="$PROJECT_DIR$/article_content_1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/article_content_2.html" afterPath="$PROJECT_DIR$/article_content_2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/article_content_3.html" afterPath="$PROJECT_DIR$/article_content_3.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/article_content_4.html" afterPath="$PROJECT_DIR$/article_content_4.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/article_content_5.html" afterPath="$PROJECT_DIR$/article_content_5.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/article_content_6.html" afterPath="$PROJECT_DIR$/article_content_6.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/article_content_7.html" afterPath="$PROJECT_DIR$/article_content_7.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/article_content_8.html" afterPath="$PROJECT_DIR$/article_content_8.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/article_content_9.html" afterPath="$PROJECT_DIR$/article_content_9.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/validation_footer.js" afterPath="$PROJECT_DIR$/js/validation_footer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/what_we_talk.html" afterPath="$PROJECT_DIR$/what_we_talk.html" />
+      <change type="DELETED" beforePath="C:\Users\屹\WebstormProjects\Group_Implementation_DECO7140\article_content.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\屹\WebstormProjects\Group_Implementation_DECO7140\what_we_talk2.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program_detail_teahouse.html" afterPath="$PROJECT_DIR$/program_detail_teahouse.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program_detail_xo_life.html" afterPath="$PROJECT_DIR$/program_detail_xo_life.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Group_Implementation_DECO7140.iws" />
@@ -35,36 +28,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="article_content_2.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/article_content_2.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.0">
-              <caret line="15" column="72" selection-start-line="15" selection-start-column="72" selection-end-line="15" selection-end-column="72" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="article_content_3.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/article_content_3.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.0">
-              <caret line="15" column="72" selection-start-line="15" selection-start-column="72" selection-end-line="15" selection-end-column="72" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="article_content_4.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/article_content_4.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.0">
-              <caret line="15" column="72" selection-start-line="15" selection-start-column="72" selection-end-line="15" selection-end-column="72" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="article_content_5.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/article_content_5.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -75,20 +38,69 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="what_we_talk.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="what_we_talk.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/what_we_talk.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.30508474">
-              <caret line="15" column="72" selection-start-line="15" selection-start-column="72" selection-end-line="15" selection-end-column="72" />
+            <state vertical-scroll-proportion="-26.0">
+              <caret line="39" column="10" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="article_content_6.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-11.333333">
+              <caret line="62" column="26" selection-start-line="62" selection-start-column="26" selection-end-line="62" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="program_detail_infiniteleaders.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/program_detail_infiniteleaders.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-18.777779">
+              <caret line="120" column="96" selection-start-line="120" selection-start-column="16" selection-end-line="120" selection-end-column="156" />
+              <folding>
+                <element signature="n#style#0;n#input#0;n#div#4;n#form#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#1;n#div#4;n#form#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="program_detail_xo_life.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/program_detail_xo_life.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-12.777778">
+              <caret line="116" column="12" selection-start-line="116" selection-start-column="12" selection-end-line="116" selection-end-column="152" />
+              <folding>
+                <element signature="n#style#0;n#input#0;n#div#4;n#form#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#1;n#div#4;n#form#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="program_detail_teahouse.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/program_detail_teahouse.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-18.777779">
+              <caret line="115" column="156" selection-start-line="115" selection-start-column="156" selection-end-line="115" selection-end-column="156" />
+              <folding>
+                <element signature="n#style#0;n#input#0;n#div#4;n#form#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#1;n#div#4;n#form#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="article_content_6.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/article_content_6.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.0">
+            <state vertical-scroll-proportion="0.30508474">
               <caret line="15" column="72" selection-start-line="15" selection-start-column="72" selection-end-line="15" selection-end-column="72" />
               <folding />
             </state>
@@ -120,16 +132,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-10.0">
               <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="article_content_1.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/article_content_1.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.0">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="72" />
               <folding />
             </state>
           </provider>
@@ -170,12 +172,9 @@
         <option value="$PROJECT_DIR$/what_we_do.html" />
         <option value="$PROJECT_DIR$/join_us.html" />
         <option value="$PROJECT_DIR$/css/font.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/validation_join_us.js" />
         <option value="$PROJECT_DIR$/js/register_form.js" />
         <option value="$PROJECT_DIR$/program_detail_infiniteleaders.html" />
-        <option value="$PROJECT_DIR$/program_detail_xo_life.html" />
-        <option value="$PROJECT_DIR$/program_detail_teahouse.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/js/back2top.js" />
         <option value="$PROJECT_DIR$/js/validation_footer.js" />
@@ -189,6 +188,9 @@
         <option value="$PROJECT_DIR$/article_content_8.html" />
         <option value="$PROJECT_DIR$/article_content_9.html" />
         <option value="$PROJECT_DIR$/what_we_talk.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/program_detail_xo_life.html" />
+        <option value="$PROJECT_DIR$/program_detail_teahouse.html" />
       </list>
     </option>
   </component>
@@ -592,7 +594,13 @@
       <option name="project" value="LOCAL" />
       <updated>1434283735756</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="back2top function">
+      <created>1434285083064</created>
+      <option name="number" value="00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1434285083064</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -631,7 +639,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Title section finish" />
     <MESSAGE value="Program_detail_page finish" />
     <MESSAGE value="&quot;What we talk&quot; page module finish" />
     <MESSAGE value="&quot;article content&quot; page module finish" />
@@ -656,7 +663,8 @@
     <MESSAGE value="fix few mistakes" />
     <MESSAGE value="pop-up form" />
     <MESSAGE value="pop-up form finish" />
-    <option name="LAST_COMMIT_MESSAGE" value="pop-up form finish" />
+    <MESSAGE value="back2top function" />
+    <option name="LAST_COMMIT_MESSAGE" value="back2top function" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -858,14 +866,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/article_content.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-33.11111">
-          <caret line="265" column="0" selection-start-line="265" selection-start-column="0" selection-end-line="265" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/what_we_do.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-27.444445">
@@ -889,14 +889,6 @@
           <folding>
             <element signature="e#0#37#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="16.0">
-          <caret line="12" column="8" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="81" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -926,28 +918,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/program_detail_xo_life.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-23.444445">
-          <caret line="249" column="29" selection-start-line="249" selection-start-column="29" selection-end-line="249" selection-end-column="29" />
-          <folding>
-            <element signature="n#style#0;n#input#0;n#div#4;n#form#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#1;n#div#4;n#form#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/program_detail_teahouse.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.28474575">
-          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
-          <folding>
-            <element signature="n#style#0;n#input#0;n#div#4;n#form#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#1;n#div#4;n#form#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/font.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -970,17 +940,6 @@
           <caret line="48" column="3" selection-start-line="48" selection-start-column="3" selection-end-line="48" selection-end-column="3" />
           <folding>
             <element signature="e#0#37#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/program_detail_infiniteleaders.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-40.77778">
-          <caret line="207" column="45" selection-start-line="207" selection-start-column="45" selection-end-line="207" selection-end-column="45" />
-          <folding>
-            <element signature="n#style#0;n#input#0;n#div#4;n#form#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#1;n#div#4;n#form#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1025,14 +984,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/article_content_6.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.0">
-          <caret line="15" column="72" selection-start-line="15" selection-start-column="72" selection-end-line="15" selection-end-column="72" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/article_content_7.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-10.0">
@@ -1058,6 +1009,55 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/what_we_talk.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-26.0">
+          <caret line="39" column="10" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.333333">
+          <caret line="62" column="26" selection-start-line="62" selection-start-column="26" selection-end-line="62" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program_detail_infiniteleaders.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.777779">
+          <caret line="120" column="96" selection-start-line="120" selection-start-column="16" selection-end-line="120" selection-end-column="156" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#div#4;n#form#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#1;n#div#4;n#form#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program_detail_xo_life.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.777778">
+          <caret line="116" column="12" selection-start-line="116" selection-start-column="12" selection-end-line="116" selection-end-column="152" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#div#4;n#form#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#1;n#div#4;n#form#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program_detail_teahouse.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.777779">
+          <caret line="115" column="156" selection-start-line="115" selection-start-column="156" selection-end-line="115" selection-end-column="156" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#div#4;n#form#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#1;n#div#4;n#form#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article_content_6.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.30508474">
           <caret line="15" column="72" selection-start-line="15" selection-start-column="72" selection-end-line="15" selection-end-column="72" />
