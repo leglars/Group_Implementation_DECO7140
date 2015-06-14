@@ -191,5 +191,67 @@
             </div>
         </div>
     </footer>
+    <div class="clear"></div>
+    <div class="mask"></div>
+    <div id="register" class="relative">
+        <div class="close">
+            <div class="close-icon"></div>
+        </div>
+        <div class="container padding">
+            <h2>Please Submit Enquiry</h2>
+            <p class="content italic">This is an application of <span class="highlight">The Teahouse Talk</span> Program. After you submit this form, our partner will contact you directly in your preferred time.</p>
+            <form method="post" id="enquiry">
+                <div class="relative clear">
+                    <input name="name" placeholder="Your Name: Winfried Sitte" required>
+                    <div class="feedback">
+                        <img class="disappear" src="img/tip_r.png" alt="right">
+                        <img class="disappear" src="img/error.png" alt="error">
+                    </div>
+                </div>
+                <div class="relative clear">
+                    <input name="company" placeholder="Your Company" required>
+                    <div class="feedback">
+                        <img class="disappear" src="img/tip_r.png" alt="right">
+                        <img class="disappear" src="img/error.png" alt="error">
+                    </div>
+                </div>
+                <div class="relative clear">
+                    <input name="occupation" placeholder="Your Occupation" required>
+                    <div class="feedback">
+                        <img class="disappear" src="img/tip_r.png" alt="right">
+                        <img class="disappear" src="img/error.png" alt="error">
+                    </div>
+                </div>
+                <div class="select-box">
+                    <label>Your Preferred Contact:</label>
+                    <select class="content-stress" name="contact">
+                        <option value="email" selected="selected">Email</option>
+                        <option value="phone">Phone</option>
+                    </select>
+                </div>
+
+                <div class="relative clear">
+                    <input type="email" name="email" placeholder="E-mail: sitte.w@infiniteleaders.com" required style="display: block;">
+                    <input name="phone" placeholder="Your Best Phone Number" required style="display: none;">
+                    <div class="feedback">
+                        <img class="disappear" src="img/tip_r.png" alt="right">
+                        <img class="disappear" src="img/error.png" alt="error">
+                    </div>
+                </div>
+
+                <div class="select-box">
+                    <label>Your Preferred Time:</label>
+                    <select class="content-stress" name="time">
+                        <option value="morning">Morning</option>
+                        <option value="noon">Lunch Break</option>
+                        <option value="afternoon" selected="selected">Afternoon</option>
+                        <option value="Evening">Evening</option>
+                    </select>
+                </div>
+                <input class="btn btn-font" type="submit" name="submit" value="Submit">
+            </form>
+        </div>
+    </div>
+    <script type="text/javascript" src="js/register_form.js"></script>
 </body>
 </html>

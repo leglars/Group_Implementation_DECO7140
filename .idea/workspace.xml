@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c465047f-7b77-4dfe-9422-57fe50519aeb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/register_form.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/font.css" afterPath="$PROJECT_DIR$/css/font.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/join_us.html" afterPath="$PROJECT_DIR$/join_us.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program_detail_infiniteleaders.html" afterPath="$PROJECT_DIR$/program_detail_infiniteleaders.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/validation_join_us.js" afterPath="$PROJECT_DIR$/js/validation_join_us.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program_detail_teahouse.html" afterPath="$PROJECT_DIR$/program_detail_teahouse.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program_detail_xo_life.html" afterPath="$PROJECT_DIR$/program_detail_xo_life.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Group_Implementation_DECO7140.iws" />
@@ -30,11 +26,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="program_detail_infiniteleaders.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="program_detail_infiniteleaders.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/program_detail_infiniteleaders.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.47118643">
-              <caret line="202" column="42" selection-start-line="202" selection-start-column="42" selection-end-line="202" selection-end-column="42" />
+            <state vertical-scroll-proportion="-16.777779">
+              <caret line="207" column="45" selection-start-line="207" selection-start-column="45" selection-end-line="207" selection-end-column="45" />
+              <folding>
+                <element signature="n#style#0;n#input#0;n#div#4;n#form#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#1;n#div#4;n#form#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="program_detail_teahouse.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/program_detail_teahouse.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-12.666667">
+              <caret line="201" column="105" selection-start-line="201" selection-start-column="105" selection-end-line="201" selection-end-column="105" />
+              <folding>
+                <element signature="n#style#0;n#input#0;n#div#4;n#form#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#1;n#div#4;n#form#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="program_detail_xo_life.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/program_detail_xo_life.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.7118644">
+              <caret line="202" column="86" selection-start-line="202" selection-start-column="86" selection-end-line="202" selection-end-column="86" />
               <folding>
                 <element signature="n#style#0;n#input#0;n#div#4;n#form#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#input#1;n#div#4;n#form#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -148,7 +170,6 @@
         <option value="$PROJECT_DIR$/model.html" />
         <option value="$PROJECT_DIR$/who_we_are.html" />
         <option value="$PROJECT_DIR$/article_content.html" />
-        <option value="$PROJECT_DIR$/program_detail_teahouse.html" />
         <option value="$PROJECT_DIR$/js/validation_footer.js" />
         <option value="$PROJECT_DIR$/js/hero_slides.js" />
         <option value="$PROJECT_DIR$/article_content_1.html" />
@@ -166,9 +187,11 @@
         <option value="$PROJECT_DIR$/css/font.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/validation_join_us.js" />
-        <option value="$PROJECT_DIR$/program_detail_infiniteleaders.html" />
         <option value="$PROJECT_DIR$/js/register_form.js" />
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/program_detail_infiniteleaders.html" />
+        <option value="$PROJECT_DIR$/program_detail_teahouse.html" />
+        <option value="$PROJECT_DIR$/program_detail_xo_life.html" />
       </list>
     </option>
   </component>
@@ -560,7 +583,13 @@
       <option name="project" value="LOCAL" />
       <updated>1434192064771</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="pop-up form">
+      <created>1434283544394</created>
+      <option name="number" value="00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1434283544394</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -569,6 +598,7 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14437367" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3329493" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -579,7 +609,6 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -599,7 +628,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="main structure of website" />
     <MESSAGE value="Hero section finish" />
     <MESSAGE value="Title section finish" />
     <MESSAGE value="Program_detail_page finish" />
@@ -624,7 +652,8 @@
     <MESSAGE value="Hero animation finish" />
     <MESSAGE value="fix validation logical expression error&#10;fix &quot;what we talk&quot; page: segmental page" />
     <MESSAGE value="fix few mistakes" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix few mistakes" />
+    <MESSAGE value="pop-up form" />
+    <option name="LAST_COMMIT_MESSAGE" value="pop-up form" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -833,20 +862,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/program_detail_xo_life.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/program_detail_teahouse.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-18.0">
-          <caret line="108" column="30" selection-start-line="102" selection-start-column="28" selection-end-line="108" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/validation_footer.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1021,8 +1036,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/program_detail_infiniteleaders.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.47118643">
-          <caret line="202" column="42" selection-start-line="202" selection-start-column="42" selection-end-line="202" selection-end-column="42" />
+        <state vertical-scroll-proportion="-16.777779">
+          <caret line="207" column="45" selection-start-line="207" selection-start-column="45" selection-end-line="207" selection-end-column="45" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#div#4;n#form#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#1;n#div#4;n#form#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program_detail_teahouse.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.666667">
+          <caret line="201" column="105" selection-start-line="201" selection-start-column="105" selection-end-line="201" selection-end-column="105" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#div#4;n#form#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#1;n#div#4;n#form#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program_detail_xo_life.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7118644">
+          <caret line="202" column="86" selection-start-line="202" selection-start-column="86" selection-end-line="202" selection-end-column="86" />
           <folding>
             <element signature="n#style#0;n#input#0;n#div#4;n#form#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#input#1;n#div#4;n#form#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
