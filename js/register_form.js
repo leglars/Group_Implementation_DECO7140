@@ -52,21 +52,21 @@ $( function() {
         if (email.val().search(/\w+([-+.]\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*/)==-1) {
             // the form tag has a empty input validation already, so we don't need to consider the empty situaton.
             if (email.val() == "") {
-                email.next().children().removeClass("appear"); // if the input is empty, clear the feedback icon.
+                email.next().next().children().removeClass("appear"); // if the input is empty, clear the feedback icon.
                 flag3 = false; // reset the flag value
             }
             else {
                 if (email.val() != "") {
-                    email.next().children().removeClass("appear"); // clear the former displayed icon
-                    email.next().children('img[alt="error"]').addClass("appear"); // show the error icon
+                    email.next().next().children().removeClass("appear"); // clear the former displayed icon
+                    email.next().next().children('img[alt="error"]').addClass("appear"); // show the error icon
                     flag3 = false; // reset the flag value
                 }
 
             }
         }
         else {
-            email.next().children().removeClass("appear"); //clear the former displayed icon
-            email.next().children('img[alt="right"]').addClass("appear"); // show the right icon
+            email.next().next().children().removeClass("appear"); //clear the former displayed icon
+            email.next().next().children('img[alt="right"]').addClass("appear"); // show the right icon
             flag3 = true; // give flag3 a value to help pass the validation of submit
         }
     }
