@@ -607,12 +607,12 @@ li.project-highlight img {
 }
 
 #register form {
-    margin: 40px 32px 0 0;
+    margin: 40px 24px 0 0;
 }
 
 #register #enquiry input:not(.btn) {
     width: 100%;
-    margin: 0px 8px 24px 0;
+    margin: 0px 8px 16px 0;
     padding: 2px 0 6px 4px;
     background-color: rgba(255,255,255,0.0);
     border: none;
@@ -621,11 +621,11 @@ li.project-highlight img {
 }
 
 #register #enquiry input[type = "submit"] {
-    margin: 32px 147px 80px 147px;
+    margin: 24px 147px 40px 147px;
 }
 
 #register #enquiry .select-box {
-    margin: 0 8px 32px 0;
+    margin: 0 8px 24px 0;
 }
 
 #register #enquiry .select-box label {
