@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c465047f-7b77-4dfe-9422-57fe50519aeb" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/font.css" afterPath="$PROJECT_DIR$/css/font.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/what_we_do.html" afterPath="$PROJECT_DIR$/what_we_do.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Group_Implementation_DECO7140.iws" />
@@ -47,11 +47,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="what_we_do.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="what_we_do.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/what_we_do.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-28.0">
-              <caret line="105" column="114" selection-start-line="105" selection-start-column="114" selection-end-line="105" selection-end-column="114" />
+            <state vertical-scroll-proportion="0.020338982">
+              <caret line="73" column="72" selection-start-line="73" selection-start-column="72" selection-end-line="73" selection-end-column="72" />
               <folding />
             </state>
           </provider>
@@ -67,10 +67,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="font.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="font.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/font.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8815789">
+            <state vertical-scroll-proportion="0.0">
               <caret line="421" column="1" selection-start-line="421" selection-start-column="1" selection-end-line="421" selection-end-column="1" />
               <folding />
             </state>
@@ -187,8 +187,8 @@
         <option value="$PROJECT_DIR$/program_detail_teahouse.html" />
         <option value="$PROJECT_DIR$/js/register_form.js" />
         <option value="$PROJECT_DIR$/css/style.css" />
-        <option value="$PROJECT_DIR$/what_we_do.html" />
         <option value="$PROJECT_DIR$/css/font.css" />
+        <option value="$PROJECT_DIR$/what_we_do.html" />
       </list>
     </option>
   </component>
@@ -616,7 +616,13 @@
       <option name="project" value="LOCAL" />
       <updated>1434287384271</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="fix few bugs">
+      <created>1434287448587</created>
+      <option name="number" value="00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1434287448587</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1067,18 +1073,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/what_we_do.html">
+    <entry file="file://$PROJECT_DIR$/css/font.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-28.0">
-          <caret line="105" column="114" selection-start-line="105" selection-start-column="114" selection-end-line="105" selection-end-column="114" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="421" column="1" selection-start-line="421" selection-start-column="1" selection-end-line="421" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/font.css">
+    <entry file="file://$PROJECT_DIR$/what_we_do.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8815789">
-          <caret line="421" column="1" selection-start-line="421" selection-start-column="1" selection-end-line="421" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.020338982">
+          <caret line="73" column="72" selection-start-line="73" selection-start-column="72" selection-end-line="73" selection-end-column="72" />
           <folding />
         </state>
       </provider>
